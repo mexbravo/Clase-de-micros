@@ -1,0 +1,33 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Documentation/tt_Settings.xml" FileDate="2018-10-10, 10:25:33" FileAge="1539192333208" FileType="3072" />
+      <File Name="Generated_Code/AS1.c" FileDate="2018-10-10, 10:25:33" FileAge="1539192333135" FileType="45637" CompNumb="10" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2018-10-08, 13:48:55" FileAge="1539031735471" FileType="45637" />
+      <File Name="Sources/main.c" FileDate="2018-10-10, 10:21:00" FileAge="1539192060105" FileType="128" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2018-10-10, 10:19:01" FileAge="1539191941521" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2018-10-08, 13:48:55" FileAge="1539031735569" FileType="45637" CompNumb="8" />
+      <File Name="Sources/Events.h" FileDate="2018-10-10, 10:19:01" FileAge="1539191941819" FileType="131328" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2018-10-08, 13:48:55" FileAge="1539031735478" FileType="45637" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2018-10-08, 13:48:55" FileAge="1539031735581" FileType="45637" CompNumb="8" />
+      <File Name="Sources/Events.c" FileDate="2018-10-10, 10:19:01" FileAge="1539191941823" FileType="131328" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2018-10-08, 13:48:55" FileAge="1539031735589" FileType="8" CompNumb="8" />
+      <File Name="Documentation/tt.txt" FileDate="2018-10-10, 10:19:02" FileAge="1539191942277" FileType="3072" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2018-10-08, 13:48:55" FileAge="1539031735463" FileType="45637" />
+      <File Name="Documentation/tt_SIGNALS.txt" FileDate="2018-10-10, 10:25:33" FileAge="1539192333152" FileType="3072" />
+      <File Name="Generated_Code/AS1.h" FileDate="2018-10-10, 10:25:33" FileAge="1539192333110" FileType="45637" CompNumb="10" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2018-10-08, 13:48:55" FileAge="1539031735499" FileType="45637" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2018-10-08, 13:48:55" FileAge="1539031735417" FileType="45637" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>7</CodeGenReference>
+</CodeGenerationInfo>

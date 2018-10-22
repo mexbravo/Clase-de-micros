@@ -1,0 +1,8 @@
+-Ms
+-I"$(ProjDirPath)/Project_Headers"
+-FA2
+-L=papel
+-AsmDbg
+-ViewHidden
+-WmsgFob"%f%e:%l:%k:%d %m\n"
+-Cs08
