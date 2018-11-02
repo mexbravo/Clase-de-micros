@@ -1,0 +1,30 @@
+#include <hidef.h> /* for EnableInterrupts macro */
+#include "derivative.h" /* include peripheral declarations */
+
+
+
+
+
+void DELAY(void){
+	int cont;
+	for (cont=0;cont<4;cont++){
+		//asm (nop);
+	}
+}
+
+
+void main(void) {
+  
+	SOPT1=0X03;
+	PTCDD=0X01;
+  
+
+  for(;;) {
+	  PTCD_PTCD0=1;
+	  DELAY();
+	  PTCD_PTCD0=0;
+	  DELAY();
+	  
+  } /* loop forever */
+  /* please make sure that you never leave main */
+}
